@@ -1,6 +1,8 @@
 #  Contents
 This directory includes python modules (Jupyter notebook) to address the defaulting on credit card payments in ABC international bank.
 
+The project was carried out by Mohammad Alidoust.
+
 ### **A.** ``credit_card_data.xlsx``
 This file contains information provided by the bank. It includes personal and bank account information of customers, default, and payment bill dates.
 ### **B.** ``preparing_db.ipynb``
